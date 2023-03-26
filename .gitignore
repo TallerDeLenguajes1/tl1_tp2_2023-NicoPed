@@ -35,7 +35,7 @@ tp2_1_1.exe
 .dylib
 
 # Executables
-*.exe
+.exe
 .out
 .app
 .i86
