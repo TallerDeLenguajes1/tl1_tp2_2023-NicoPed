@@ -1,0 +1,6 @@
+f) No se puede ver el archivo tp2_1_2.c ya que esta
+en una rama, oséa un "lugar" distinto al main 
+Al hacer tespuestas.txt y su commit, se nota como se "avanza",
+se crea otro commit, en la rama principal, sin afectar a la rama Opcion_2
+con el merge es como que "se une", y "fusiona" lo de la rama Opcion 2 en el main
+y ahora si continuan juntas 
