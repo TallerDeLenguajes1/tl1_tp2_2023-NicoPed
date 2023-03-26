@@ -1,6 +1,8 @@
 # Created by httpswww.toptal.comdevelopersgitignoreapivisualstudiocode,c
 # Edit at httpswww.toptal.comdevelopersgitignoretemplates=visualstudiocode,c
 
+tp2_1_1.exe
+
 ### C ###
 # Prerequisites
 .d
@@ -33,7 +35,7 @@
 .dylib
 
 # Executables
-.exe
+*.exe
 .out
 .app
 .i86
